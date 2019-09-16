@@ -1,5 +1,4 @@
-# hello_world
-hello world
+# neural network
 
-Hi!
-this is my first time to github!
+My first neural network!
+
